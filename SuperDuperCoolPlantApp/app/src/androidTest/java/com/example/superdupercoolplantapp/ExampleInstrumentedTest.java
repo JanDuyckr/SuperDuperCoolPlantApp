@@ -1,4 +1,4 @@
-package be.kuleuven.superdupercoolplantapp;
+package com.example.superdupercoolplantapp;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("be.kuleuven.superdupercoolplantapp", appContext.getPackageName());
+        assertEquals("com.example.superdupercoolplantapp", appContext.getPackageName());
     }
 }

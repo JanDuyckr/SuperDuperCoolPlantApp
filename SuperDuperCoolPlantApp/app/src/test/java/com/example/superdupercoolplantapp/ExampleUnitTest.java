@@ -1,4 +1,4 @@
-package be.kuleuven.superdupercoolplantapp;
+package com.example.superdupercoolplantapp;
 
 import org.junit.Test;
 
