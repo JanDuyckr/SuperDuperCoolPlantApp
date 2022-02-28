@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/home2">
+
+    <fragment
+        android:id="@+id/home2"
+        android:name="com.example.superdupercoolplantapp.fragments.Home"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/myPlants"
+        android:name="com.example.superdupercoolplantapp.fragments.MyPlants"
+        android:label="fragment_my_plants"
+        tools:layout="@layout/fragment_my_plants" />
+    <fragment
+        android:id="@+id/account"
+        android:name="com.example.superdupercoolplantapp.fragments.Account"
+        android:label="fragment_account"
+        tools:layout="@layout/fragment_account" />
+    <fragment
+        android:id="@+id/log"
+        android:name="com.example.superdupercoolplantapp.fragments.Log"
+        android:label="fragment_log"
+        tools:layout="@layout/fragment_log" />
+</navigation>
