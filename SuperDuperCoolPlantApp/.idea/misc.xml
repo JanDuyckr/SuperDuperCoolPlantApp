@@ -21,6 +21,16 @@
         <entry key="..\:/Users/yonat/Documents/GitHub/a21iot08/SuperDuperCoolPlantApp/app/src/main/res/layout/fragment_login.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/yonat/Documents/GitHub/a21iot08/SuperDuperCoolPlantApp/app/src/main/res/layout/fragment_my_plants.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/yonat/Documents/GitHub/a21iot08/SuperDuperCoolPlantApp/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.36666666666666664" />
+        <entry key="app/src/main/res/drawable/roundcorners.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/roundstyle.xml" value="0.152" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_account.xml" value="0.28031768798828127" />
+        <entry key="app/src/main/res/layout/fragment_edit_plant.xml" value="0.16259057971014493" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.24965483753393727" />
+        <entry key="app/src/main/res/layout/fragment_log.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/fragment_my_plants.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/fragment_new_plant.xml" value="0.15070921985815602" />
       </map>
     </option>
   </component>
